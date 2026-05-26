@@ -104,25 +104,3 @@ Contact
 
 Acknowledgments
 The author thanks the guest editors of the special issue—Prof. Vladislav V. Kravchenko, Prof. Arutyun Avetisyan, Prof. Evgeny Burnaev, and Prof. Alexey Karapetyants.
-
-text
-
----
-
-## File 5: `final_results.json`
-
-```json
-{
-  "l2_error_pinn_percent": 20.52,
-  "l2_error_landweber_percent": 99.51,
-  "improvement_absolute": 78.99,
-  "improvement_relative": 79.4,
-  "final_loss": 2.095e-05,
-  "mean_uncertainty": 0.019038,
-  "max_uncertainty": 0.052504,
-  "correlation": 0.149,
-  "n_sensors": 15,
-  "noise_level_percent": 3.0,
-  "nx": 100,
-  "iterations": 2000
-}
